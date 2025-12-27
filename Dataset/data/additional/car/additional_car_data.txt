@@ -1,0 +1,26 @@
+Download dataset from http://doi.org/10.4121/uuid:bef54ab8-73ef-42f3-b6b7-54e011737e72
+and past here files listed below
+
+data/additional/car/auto_30kph_pass1_1.wav
+data/additional/car/auto_30kph_pass2_1.wav
+data/additional/car/auto_30kph_pass3_1.wav
+data/additional/car/auto_50kph_pass1_1.wav
+data/additional/car/auto_50kph_pass2_1.wav
+data/additional/car/meting1_auto_30kph_pass10_1.wav
+data/additional/car/meting1_auto_30kph_pass1_1.wav
+data/additional/car/meting1_auto_30kph_pass2_1.wav
+data/additional/car/meting1_auto_30kph_pass3_1.wav
+data/additional/car/meting1_auto_30kph_pass4_1.wav
+data/additional/car/meting1_auto_30kph_pass5_1.wav
+data/additional/car/meting1_auto_30kph_pass6_1.wav
+data/additional/car/meting1_auto_30kph_pass7_1.wav
+data/additional/car/meting1_auto_30kph_pass8_1.wav
+data/additional/car/meting1_auto_30kph_pass9_1.wav
+data/additional/car/meting1_auto_50kph_pass1_1.wav
+data/additional/car/meting1_auto_50kph_pass2_1.wav
+data/additional/car/meting1_auto_50kph_pass3_1.wav
+data/additional/car/meting1_auto_50kph_pass4_1.wav
+data/additional/car/meting1_auto_50kph_pass5_1.wav
+data/additional/car/meting1_auto_50kph_pass6_1.wav
+data/additional/car/meting1_auto_50kph_pass8_1.wav
+data/additional/car/meting1_auto_50kph_pass9_1.wav
