@@ -82,5 +82,3 @@ Berdasarkan pengujian komparatif terhadap tiga algoritma, **Random Forest** dipi
 
 > ⚠️ **Disclaimer**: Proyek ini dikembangkan sebagai purwarupa untuk penelitian akademis dan mungkin memerlukan penyesuaian lebih lanjut untuk penggunaan industri skala besar.
 
-## 📧 Contact
-[email_anda@student.ub.ac.id](mailto:email_anda@student.ub.ac.id)
